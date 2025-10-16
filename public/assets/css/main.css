@@ -3556,7 +3556,7 @@ body.body {
     line-height: 18px; /* 100% */
     text-transform: uppercase;
     display: inline-block;
-    background-color: #ba5339;
+    background-color: #52b5e9;
     border-radius: 8px;
     padding: 19px 22px;
     transition: all 0.4s;
@@ -3577,7 +3577,7 @@ body.body {
     line-height: 18px; /* 100% */
     text-transform: uppercase;
     display: inline-block;
-    background-color: #ba5339;
+    background-color: rgb(1, 160, 226);
     border-radius: 8px;
     padding: 18px 22px;
     transition: all 0.4s;
@@ -8088,7 +8088,7 @@ body.body {
     transition: all 0.4s;
 }
 .contact8 .contact9-content-area .contact9-box .icon {
-    background-color: #ba5339;
+    background-color: #3da9dd;
     height: 80px;
     width: 80px;
     line-height: 80px;
@@ -8103,7 +8103,7 @@ body.body {
 .contact8 .contact9-content-area .contact9-box:hover {
     transform: translateY(-10px);
     transition: all 0.4s;
-    background-color: #ba5339;
+    background-color: #3da9dd;
 }
 .contact8 .contact9-content-area .contact9-box:hover .icon {
     background-color: #fff;
