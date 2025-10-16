@@ -52,40 +52,40 @@ export default function Section2() {
                         <div className="col-lg-12">
                             <Swiper {...swiperOptions} className="logo-slider">
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo1.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo1.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo2.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo2.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo3.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo3.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo4.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo4.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo5.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo5.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo6.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo6.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo1.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo1.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo2.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo2.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo3.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo3.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo4.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo4.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo5.png" alt="" />
+                                    <img src="assets/img/logo/slider-logo5.png" alt="" />
                                 </SwiperSlide>
                                 <SwiperSlide className="single-slider">
-                                    <img src="assets/img/logo/hero9-logo6.png" alt="" />
+                                    <img src="assets/img/logo/silder-logo6.png" alt="" />
                                 </SwiperSlide>
                             </Swiper>
                         </div>

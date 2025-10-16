@@ -18,7 +18,7 @@ export default function MainMenu() {
                 </Link>
                 </li>
             <li className="dropdown-menu-parrent">
-                <Link href="#case" className="main1">
+                <Link href="#blog" className="main1">
                     Blog 
                 </Link>
             </li>
