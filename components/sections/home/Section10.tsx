@@ -28,9 +28,9 @@ export default function Section10() {
                                         <img src="assets/img/icons/date7.svg" alt="" /> 8 December 2025
                                     </Link>
                                     <h4>
-                                        <Link href="/blog-details">How To Create An Recruitment Strategy For Your Business</Link>
+                                        <Link href="#contact">How To Create An Recruitment Strategy For Your Business</Link>
                                     </h4>
-                                    <Link href="/blog-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />
@@ -49,9 +49,9 @@ export default function Section10() {
                                         <img src="assets/img/icons/date7.svg" alt="" /> 6 september 2025
                                     </Link>
                                     <h4>
-                                        <Link href="/blog-details">Navigating the Challenges of Remote Work Recruitment</Link>
+                                        <Link href="#contact">Navigating the Challenges of Remote Work Recruitment</Link>
                                     </h4>
-                                    <Link href="/blog-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />
@@ -70,9 +70,9 @@ export default function Section10() {
                                         <img src="assets/img/icons/date7.svg" alt="" /> 12 april 2025
                                     </Link>
                                     <h4>
-                                        <Link href="/blog-details">How Retain In Talent: Strategies for Employee Engagement</Link>
+                                        <Link href="#contact">How Retain In Talent: Strategies for Employee Engagement</Link>
                                     </h4>
-                                    <Link href="/blog-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />

@@ -74,7 +74,7 @@ export default function Section3() {
                                 </div>
                                 <div className="space30" />
                                 <div className="" data-aos="fade-left" data-aos-duration={1200}>
-                                    <Link className="theme-btn15" href="/service">
+                                    <Link className="theme-btn15" href="#contact">
                                         Join Our Network
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />

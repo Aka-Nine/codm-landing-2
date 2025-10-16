@@ -32,7 +32,7 @@ export default function Section5() {
                                     </div>
                                     <div className="heading-area">
                                         <h3>
-                                            <Link href="/project-details">Job Analysis</Link>
+                                            <Link href="#contact">Job Analysis</Link>
                                         </h3>
                                         <p>Job analysis is a critical process understanding defining specific.</p>
                                     </div>
@@ -68,7 +68,7 @@ export default function Section5() {
                                     </div>
                                     <div className="heading-area">
                                         <h3>
-                                            <Link href="/project-details">Job Analysis</Link>
+                                            <Link href="#contact">Job Analysis</Link>
                                         </h3>
                                         <p>Job analysis is a critical process understanding defining specific.</p>
                                     </div>

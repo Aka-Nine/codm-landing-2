@@ -75,9 +75,9 @@ export default function Section7() {
                                 <div className="hover-area">
                                     <p>staffing solution</p>
                                     <h4>
-                                        <Link href="/service-details">Real-World Staffing Solutions</Link>
+                                        <Link href="#contact">Real-World Staffing Solutions</Link>
                                     </h4>
-                                    <Link href="/service-details" className="arrow">
+                                    <Link href="#contact" className="arrow">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -89,9 +89,9 @@ export default function Section7() {
                                 <div className="hover-area">
                                     <p>staffing success</p>
                                     <h4>
-                                        <Link href="/service-details">Client Success Highlights</Link>
+                                        <Link href="#contact">Client Success Highlights</Link>
                                     </h4>
-                                    <Link href="/service-details" className="arrow">
+                                    <Link href="#contact" className="arrow">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -103,9 +103,9 @@ export default function Section7() {
                                 <div className="hover-area">
                                     <p>staffing Challenge</p>
                                     <h4>
-                                        <Link href="/service-details">Transforming Challenges Into</Link>
+                                        <Link href="#contact">Transforming Challenges Into</Link>
                                     </h4>
-                                    <Link href="/service-details" className="arrow">
+                                    <Link href="#contact" className="arrow">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -117,9 +117,9 @@ export default function Section7() {
                                 <div className="hover-area">
                                     <p>staffing solution</p>
                                     <h4>
-                                        <Link href="/service-details">Real-World Staffing Solutions</Link>
+                                        <Link href="#contact">Real-World Staffing Solutions</Link>
                                     </h4>
-                                    <Link href="/service-details" className="arrow">
+                                    <Link href="#contact" className="arrow">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -131,9 +131,9 @@ export default function Section7() {
                                 <div className="hover-area">
                                     <p>staffing success</p>
                                     <h4>
-                                        <Link href="/service-details">Client Success Highlights</Link>
+                                        <Link href="#contact">Client Success Highlights</Link>
                                     </h4>
-                                    <Link href="/service-details" className="arrow">
+                                    <Link href="#contact" className="arrow">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -145,9 +145,9 @@ export default function Section7() {
                                 <div className="hover-area">
                                     <p>staffing Challenge</p>
                                     <h4>
-                                        <Link href="/service-details">Transforming Challenges Into</Link>
+                                        <Link href="#contact">Transforming Challenges Into</Link>
                                     </h4>
-                                    <Link href="/service-details" className="arrow">
+                                    <Link href="#contact" className="arrow">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>

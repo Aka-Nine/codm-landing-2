@@ -27,10 +27,10 @@ export default function Section4() {
                                 <div className="heading">
                                     <span className="text">Service 01</span>
                                     <h4>
-                                        <Link href="/service-details">Salesforce Implementation</Link>
+                                        <Link href="#contact">Salesforce Implementation</Link>
                                     </h4>
                                     <p>We ensure your Salesforce solution is tailored to your business needs, from initial setup to ongoing optimization.</p>
-                                    <Link href="/service-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />
@@ -47,10 +47,10 @@ export default function Section4() {
                                 <div className="heading">
                                     <span className="text">Service 02</span>
                                     <h4>
-                                        <Link href="/service-details">Salesforce Consulting</Link>
+                                        <Link href="#contact">Salesforce Consulting</Link>
                                     </h4>
                                     <p>Salesforce experts provides strategic guidance and best practices to help you get the most out of your Salesforce investment.</p>
-                                    <Link href="/service-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />
@@ -67,10 +67,10 @@ export default function Section4() {
                                 <div className="heading">
                                     <span className="text">Service 03</span>
                                     <h4>
-                                        <Link href="/service-details">Salesforce Customization</Link>
+                                        <Link href="#contact">Salesforce Customization</Link>
                                     </h4>
                                     <p>We customize Salesforce to meet your unique business requirements, ensuring maximum ROI and efficiency.</p>
-                                    <Link href="/service-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />
@@ -87,10 +87,10 @@ export default function Section4() {
                                 <div className="heading">
                                     <span className="text">Service 04</span>
                                     <h4>
-                                        <Link href="/service-details">Salesforce Integration</Link>
+                                        <Link href="#contact">Salesforce Integration</Link>
                                     </h4>
                                     <p>We integrate Salesforce with your existing systems, ensuring seamless data flow and improved efficiency.</p>
-                                    <Link href="/service-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />
@@ -107,10 +107,10 @@ export default function Section4() {
                                 <div className="heading">
                                     <span className="text">Service 05</span>
                                     <h4>
-                                        <Link href="/service-details">Salesforce Training</Link>
+                                        <Link href="#contact">Salesforce Training</Link>
                                     </h4>
                                     <p>We provide comprehensive training to empower your team to use Salesforce effectively.</p>
-                                    <Link href="/service-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />
@@ -127,10 +127,10 @@ export default function Section4() {
                                 <div className="heading">
                                     <span className="text">Service 06</span>
                                     <h4>
-                                        <Link href="/service-details">Salesforce Support</Link>
+                                        <Link href="#contact">Salesforce Support</Link>
                                     </h4>
                                     <p>We offer ongoing support to ensure your Salesforce solution runs smoothly and efficiently.</p>
-                                    <Link href="/service-details" className="learn">
+                                    <Link href="#contact" className="learn">
                                         learn more
                                         <span>
                                             <i className="fa-solid fa-arrow-right" />
@@ -164,7 +164,7 @@ export default function Section4() {
                     <div className="row">
                         <div className="col-lg-12 text-center">
                             <div className="text-center">
-                                <Link className="theme-btn15" href="/service">
+                                <Link className="theme-btn15" href="#contact">
                                     view more services
                                     <span>
                                         <i className="fa-solid fa-arrow-right" />

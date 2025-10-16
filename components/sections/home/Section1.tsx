@@ -18,7 +18,7 @@ export default function Section1() {
                                 At CodM, we don’t just implement Salesforce — we deliver solutions that drive real business impact. By partnering with us, you gain a team of certified experts dedicated to your success.
                                 </p>
                                 <div className="space30" />
-                                <Link className="theme-btn15" href="/service">
+                                <Link className="theme-btn15" href="#contact">
                                     Schedule a Consultation
                                     <span>
                                         <i className="fa-solid fa-arrow-right" />

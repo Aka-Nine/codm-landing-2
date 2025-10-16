@@ -30,7 +30,7 @@ export default function Section6() {
                                     </div>
                                     <div className="heading">
                                         <h4>
-                                            <Link href="/service-details">Highest Success Rates</Link>
+                                            <Link href="#contact">Highest Success Rates</Link>
                                         </h4>
                                         <p>Stay tuned for regular updates and to valuable insights from our best team.</p>
                                     </div>
@@ -48,7 +48,7 @@ export default function Section6() {
                                     </div>
                                     <div className="heading">
                                         <h4>
-                                            <Link href="/service-details">Recruitment Solutions</Link>
+                                            <Link href="#contact">Recruitment Solutions</Link>
                                         </h4>
                                         <p>Each case study provides an in-depth look at the unique challenges faced.</p>
                                     </div>
@@ -66,7 +66,7 @@ export default function Section6() {
                                     </div>
                                     <div className="heading">
                                         <h4>
-                                            <Link href="/service-details">Business Planning</Link>
+                                            <Link href="#contact">Business Planning</Link>
                                         </h4>
                                         <p>These stories highlight our commit to excellence and our ability to adapt.</p>
                                     </div>
